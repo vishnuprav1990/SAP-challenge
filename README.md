@@ -13,7 +13,7 @@
 
 ### Technology Used
 * Spring v3.2.4
-* Hibrenet v4.1.4
+* Hibernate v4.1.4
 * Deploy in Java web server (Tested on Apache Tomcat/7.0.65).
 * Database: MySQL
   - DB Name : quantiphi_db
